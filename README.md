@@ -24,7 +24,7 @@ The General Manager of Analytics at Health Co has requested our assistance with 
 Our task here is to debug their SQL script, and retrieve all the correct answers to the business questions the GM has requested for a board meeting about their active users.
 
 
-![meme]()
+![meme](https://github.com/iaks23/Health-Analytics-Case-Study/blob/main/img/Drake_350x350.jpg)
 
 # 📖 Business Questions <a name='questions'></a>
 
@@ -174,7 +174,14 @@ WHERE measure='blood_pressure';
 |---|---|
 |126|79|
 
--------
+----------------------
 
+© Akshaya Parthasarathy, 2021
+
+For feedback, or if you just feel like saying Hi!
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya-parthasarathy23)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aks_sarathy/)
+[![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/longstoryshort_)
 
 
