@@ -17,4 +17,18 @@ A mini case study performed in POSTGRESQL as part of the SeriousSQL course by Da
 
 -------
 
-# 
+# 🚨 Problem Statement <a name='problem'></a>
+
+
+
+
+
+
+# 📖 Business Questions <a name='questions'></a>
+
+
+
+
+
+
+# 🌟 Solutions <a name='solutions'></a>
