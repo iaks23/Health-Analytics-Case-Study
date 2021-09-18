@@ -28,23 +28,23 @@ Our task here is to debug their SQL script, and retrieve all the correct answers
 
 # 📖 Business Questions <a name='questions'></a>
 
-## These were the questions that the GM needed us to fetch from our queries.
+### These were the questions that the GM needed us to fetch from our queries.
 
-### Q1. How many *unique users* exist in the logs dataset?
-### Q2. How many total measurements do we have *per user on average*?
-### Q3. What about the *median* number of measurements per user?
-### Q4. How many *users* have 3 or more *measurements*?
-### Q5. How many *users* have *1,000 or more measurements*?
+ Q1. How many *unique users* exist in the logs dataset?
+ Q2. How many total measurements do we have *per user on average*?
+ Q3. What about the *median* number of measurements per user?
+ Q4. How many *users* have 3 or more *measurements*?
+ Q5. How many *users* have *1,000 or more measurements*?
 
 > Looking at the logs data - what is the number and *percentage of the active user* base who:
 
-### Q6. Have logged *blood glucose measurements*?
-### Q7. Have at least 2 types of measurements?
-### Q8. Have all *3 measures* - blood glucose, weight and blood pressure?
+ Q6. Have logged *blood glucose measurements*?
+ Q7. Have at least 2 types of measurements?
+ Q8. Have all *3 measures* - blood glucose, weight and blood pressure?
 
 > For users that have blood pressure measurements:
 
-### Q9. What is the *median systolic/diastolic blood pressure* values?
+ Q9. What is the *median systolic/diastolic blood pressure* values?
 
 
 
