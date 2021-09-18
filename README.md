@@ -31,15 +31,21 @@ Our task here is to debug their SQL script, and retrieve all the correct answers
 ### These were the questions that the GM needed us to fetch from our queries.
 
  Q1. How many *unique users* exist in the logs dataset?
+ 
  Q2. How many total measurements do we have *per user on average*?
+ 
  Q3. What about the *median* number of measurements per user?
+ 
  Q4. How many *users* have 3 or more *measurements*?
+ 
  Q5. How many *users* have *1,000 or more measurements*?
 
 > Looking at the logs data - what is the number and *percentage of the active user* base who:
 
  Q6. Have logged *blood glucose measurements*?
+ 
  Q7. Have at least 2 types of measurements?
+ 
  Q8. Have all *3 measures* - blood glucose, weight and blood pressure?
 
 > For users that have blood pressure measurements:
@@ -49,6 +55,43 @@ Our task here is to debug their SQL script, and retrieve all the correct answers
 
 
 # 🌟 Solutions <a name='solutions'></a>
+
+### Q1: How many *unique users* exist in the logs dataset?
+
+```sql
+
+SELECT COUNT(DISTINCT id) AS unique_users FROM health.user_logs;
+
+```
+|unique_users|
+|---|
+|554|
+
+### Q2: How many total measurements do we have *per user on average*?
+
+```sql
+
+SELECT ROUND(AVG(measure_count),2) AS Avg_Measurements
+FROM user_measure_count;
+
+```
+|Avg_Measurements|
+|---|
+|79.23|
+
+
+### Q3: How many total measurements do we have *per user on average*?
+
+```sql
+
+SELECT ROUND(AVG(measure_count),2) AS Avg_Measurements
+FROM user_measure_count;
+
+```
+|Avg_Measurements|
+|---|
+|79.23|
+
 
 
 -------
