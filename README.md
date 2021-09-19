@@ -1,6 +1,5 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) 
-
-   [![SQLBadge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/alexandresanlim/Badges4-README.md-Profile)                         
+[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)              [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) 
+ <img align="left" width="170" height="35" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 # Health Analytics Mini Case Study 🩺
 A mini case study performed in <code>PostGreSQL</code> as part of the [SeriousSQL](https://www.datawithdanny.com) course by Danny Ma. 
