@@ -23,8 +23,9 @@ The General Manager of Analytics at Health Co has requested our assistance with 
 
 Our task here is to debug their SQL script, and retrieve all the correct answers to the business questions the GM has requested for a board meeting about their active users.
 
-
-![meme](https://github.com/iaks23/Health-Analytics-Case-Study/blob/main/img/Drake_350x350.jpg)
+<p align="center">
+  <img width="350" height="350" src="https://github.com/iaks23/Health-Analytics-Case-Study/blob/main/img/Drake_350x350.jpg">
+</p>
 
 # 📖 Business Questions <a name='questions'></a>
 
